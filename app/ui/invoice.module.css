@@ -1,0 +1,56 @@
+
+
+.h1 {
+	font: bold 100% sans-serif;
+	letter-spacing: 0.5em;
+	text-align: center;
+	text-transform: uppercase;
+	
+}
+
+.table {
+	padding-top:5%;
+	font-size: 75%;
+	table-layout: fixed;
+	float: right;
+	width: 36%;
+	border-collapse: separate;
+	border-spacing: 2px;
+}
+
+.th {
+	border-width: 1px;
+	padding: 0.5em;
+	position: relative;
+	text-align: left;
+	border-radius: 0.25em;
+	border-style: solid;
+	background: #EEE;
+	border-color: #BBB;
+}
+
+.td {
+	border-width: 1px;
+	padding: 0.5em;
+	position: relative;
+	text-align: left;
+	border-radius: 0.25em;
+	border-style: solid;
+	border-color: #DDD;
+}
+
+.address {
+	padding-top:18%;
+	font-size: 100%;
+}
+
+.logo {
+	padding-top:3%;
+	float: left;
+}
+
+.itemContainer{
+	padding-top:5%;
+	text-align:center;
+	font-size: larger;
+}
